@@ -1,0 +1,23 @@
+{
+    "name": "acamposm/hex-colors",
+    "description": "Hex color enumerations based on CSS colors & Tailwindcss colors",
+    "version": "0.0.1",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Acamposm\\HexColors\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angel Campos Munoz",
+            "email": "angel.campos.m@outlook.com",
+            "role": "developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
