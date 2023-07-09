@@ -1,7 +1,6 @@
 {
     "name": "acamposm/hex-colors",
     "description": "Hex color enumerations based on CSS colors & Tailwindcss colors",
-    "version": "0.1.1",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -29,5 +28,6 @@
         "release:patch": "conventional-changelog --patch --commit",
         "release:minor": "conventional-changelog --minor --commit",
         "release:major": "conventional-changelog --major --commit"
-    }
+    },
+    "version": "0.0.1"
 }
