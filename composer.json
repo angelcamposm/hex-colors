@@ -1,7 +1,7 @@
 {
     "name": "acamposm/hex-colors",
     "description": "Hex color enumerations based on CSS colors & Tailwindcss colors",
-    "version": "0.1.0",
+    "version": "0.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
