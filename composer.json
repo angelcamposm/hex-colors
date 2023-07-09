@@ -19,5 +19,15 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.1"
+    },
+    "require-dev": {
+        "marcocesarato/php-conventional-changelog": "^1.17"
+    },
+    "scripts": {
+        "changelog": "conventional-changelog",
+        "release": "conventional-changelog --commit",
+        "release:patch": "conventional-changelog --patch --commit",
+        "release:minor": "conventional-changelog --minor --commit",
+        "release:major": "conventional-changelog --major --commit"
     }
 }
