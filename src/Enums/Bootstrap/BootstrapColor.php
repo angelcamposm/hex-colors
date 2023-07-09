@@ -18,5 +18,4 @@ enum BootstrapColor: string implements ColorInterface
     case Light = '#f8f9fa';
     case Dark = '#343a40';
     case White = '#fff';
-
 }
